@@ -10,7 +10,7 @@ Search tasks: Users can search a particular task in the search bar.
 
 Installation
 Clone this repository to your local machine:
-git clone https://github.com/yourusername/flask-todo.git
+git clone https://github.com/Archish18/TODO.git
 
 Navigate into the project directory:
 cd flask-todo
